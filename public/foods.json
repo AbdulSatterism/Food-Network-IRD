@@ -1,0 +1,110 @@
+[
+    {
+        "_id": 1,
+        "name": "Orange",
+        "title": "Health benefits of an Orange",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://images.pexels.com/photos/2294477/pexels-photo-2294477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "secondImg": "https://images.pexels.com/photos/14692488/pexels-photo-14692488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "fruit",
+        "rating": 3
+    },
+    {
+        "_id": 2,
+        "name": "Apple",
+        "title": "Health benefits of an Apple",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTayfBz3pGVrEIUbw5ceXlBLDj9yu1w9KjER3hMQ94a5rdUnOWpTH-gPlry6xZwf6SQNfk&usqp=CAU",
+        "secondImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTayfBz3pGVrEIUbw5ceXlBLDj9yu1w9KjER3hMQ94a5rdUnOWpTH-gPlry6xZwf6SQNfk&usqp=CAU",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "fruit",
+        "rating": 3
+    },
+    {
+        "_id": 3,
+        "name": "Orange",
+        "title": "Health benefits of an Orange",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://images.pexels.com/photos/2294477/pexels-photo-2294477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "secondImg": "https://images.pexels.com/photos/14692488/pexels-photo-14692488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "fruit",
+        "rating": 3
+    },
+    {
+        "_id": 4,
+        "name": "Apple",
+        "title": "Health benefits of an Orange",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTayfBz3pGVrEIUbw5ceXlBLDj9yu1w9KjER3hMQ94a5rdUnOWpTH-gPlry6xZwf6SQNfk&usqp=CAU",
+        "secondImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTayfBz3pGVrEIUbw5ceXlBLDj9yu1w9KjER3hMQ94a5rdUnOWpTH-gPlry6xZwf6SQNfk&usqp=CAU",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "fruit",
+        "rating": 4
+    },
+    {
+        "_id": 5,
+        "name": "Orange",
+        "title": "Health benefits of an Orange",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://images.pexels.com/photos/2294477/pexels-photo-2294477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "secondImg": "https://images.pexels.com/photos/14692488/pexels-photo-14692488.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "fruit",
+        "rating": 3
+    },
+    {
+        "_id": 6,
+        "name": "Carrot",
+        "title": "Health benefits of an Carrot",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOOhvaeN0kOfTUSdlIaB761h5SBhCR_u12Pyng7czz3NS90KOuy6XZ1g0gq31vv5vPU8&usqp=CAU",
+        "secondImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOOhvaeN0kOfTUSdlIaB761h5SBhCR_u12Pyng7czz3NS90KOuy6XZ1g0gq31vv5vPU8&usqp=CAU",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "vegetable",
+        "rating": 4
+    },
+    {
+        "_id": 7,
+        "name": "Carrot",
+        "title": "Health benefits of an Carrot",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOOhvaeN0kOfTUSdlIaB761h5SBhCR_u12Pyng7czz3NS90KOuy6XZ1g0gq31vv5vPU8&usqp=CAU",
+        "secondImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOOhvaeN0kOfTUSdlIaB761h5SBhCR_u12Pyng7czz3NS90KOuy6XZ1g0gq31vv5vPU8&usqp=CAU",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "vegetable",
+        "rating": 4
+    },
+    {
+        "_id": 8,
+        "name": "Carrot",
+        "title": "Health benefits of an Carrot",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOOhvaeN0kOfTUSdlIaB761h5SBhCR_u12Pyng7czz3NS90KOuy6XZ1g0gq31vv5vPU8&usqp=CAU",
+        "secondImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOOhvaeN0kOfTUSdlIaB761h5SBhCR_u12Pyng7czz3NS90KOuy6XZ1g0gq31vv5vPU8&usqp=CAU",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "vegetable",
+        "rating": 4
+    },
+    {
+        "_id": 9,
+        "name": "Potato",
+        "title": "Health benefits of an Potato",
+        "subTitle": "Vitamin c",
+        "firstImg": "https://images.unsplash.com/photo-1590165482129-1b8b27698780?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "secondImg": "https://images.unsplash.com/photo-1590165482129-1b8b27698780?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "description": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.. ",
+        "advantage": "Spinach contains high levels of vitamin A and other antioxidants that help maintain healthy vision and protect against age-related macular degeneration.",
+        "category": "vegetable",
+        "rating": 3.5
+    }
+]
