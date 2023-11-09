@@ -3,7 +3,7 @@ import { FaTextHeight } from 'react-icons/fa';
 
 const RightSideContent = () => {
     return (
-        <div className='w-full bg-white m-2 p-2 shadow-md rounded'>
+        <div className='w-full  bg-white m-2 p-2 shadow-md rounded'>
             <div className=' flex inline items-center text-orange-400 '>
                 <p><FaTextHeight></FaTextHeight></p>
                 <p>  Setting</p>
