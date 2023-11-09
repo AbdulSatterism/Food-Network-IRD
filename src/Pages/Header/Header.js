@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../asset/logo/logo.png'
-import { FaBars, FaStar, FaSun } from 'react-icons/fa';
+import { FaBars, FaSun } from 'react-icons/fa';
 
 const Header = () => {
 
@@ -29,7 +29,7 @@ const Header = () => {
       <div className="navbar-end">
         <ul className="menu menu-horizontal">
           <li><Link className='text-orange-400'><FaSun></FaSun> </Link></li>
-          <li><Link className='text-orange-400'><FaStar></FaStar> </Link></li>
+          <li><Link to='/dashboard' className='text-orange-400'> Dashboard </Link></li>
         </ul>
       </div>
     </div>
