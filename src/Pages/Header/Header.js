@@ -4,6 +4,7 @@ import logo from '../../asset/logo/logo.png'
 import { FaBars, FaStar, FaSun } from 'react-icons/fa';
 
 const Header = () => {
+
   return (
     <div className="navbar bg-white h-16">
       <div className="navbar-start">
